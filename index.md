@@ -26,7 +26,7 @@ answers :
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mon Site Web</title>
     <!-- Lien vers le fichier CSS externe -->
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Bienvenue sur mon site web</h1>
