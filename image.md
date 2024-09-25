@@ -1,1 +1,3 @@
-![Crochet hippo](hippopotames.jpg){: style="width:26px"}
+![Crochet hippo](hippopotames.jpg)
+<img src="hippopotames.jpg" alt="Crochet hippo" width="50" height="50">
+
