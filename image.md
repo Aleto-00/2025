@@ -1,1 +1,1 @@
-![Crochet hippo](hippopotames.jpg)
+![Crochet hippo](hippopotames.jpg){: style="width:100px"}
