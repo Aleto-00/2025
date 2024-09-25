@@ -1,1 +1,1 @@
-![Description de l'image](hippopotames.jpg)
+![Crochet hippo](hippopotames.jpg)
