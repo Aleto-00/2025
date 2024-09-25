@@ -24,6 +24,11 @@ cell1 | cell 2
 answers : 
 *2 | *4
 
+~~~~
+This is a code block, fenced-style
+~~~~
+
+
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
