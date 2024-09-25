@@ -28,6 +28,7 @@ answers :
 This is a code block, fenced-style
 ~~~~
 
+=================
 
 <html lang="fr">
 <head>
